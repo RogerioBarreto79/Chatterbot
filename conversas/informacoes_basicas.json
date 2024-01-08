@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "onde a loja Mundo da Musica está localizada ?", "onde fica a loja?", "onde vocês funcionam?" ],
+            "resposta": "A Loja fica na av. lauro de Freitas, 315, Centro"
+        },
+        {
+            "mensagens": [ "Qual o horário de funcionamento?", "Que horas vocês ficam abertos?","Horário?" ],
+            "resposta": "A loja Mundo da Musica funciona pela manhã/tarde, em horário comercial(8:00 ás 18:00)"
+        },
+        {
+            "mensagens": [ "Quais instrumentos tem na loja ?", "Quais instrumentos possuem ?" ],
+            "resposta": "A loja Mundo da Musica dispõe de vários instrumentos:Baterias, Guitarras, Violões, Contrabaixos, entre outros... "
+        },
+        {
+            "mensagens": [ "Quais as marcas dísponíveis ?", "Marcas que possuem ?" ],
+            "resposta": "A loja Mundo da Musica dispõe de várias marcas conhecidas:Ibanez, Tagima, Groovin, Yamaha e Sonor "
+        },
+        {
+            "mensagens": [ "Quais as formas de pagamento dísponíveis ?", "Quais as formas de pagamento ?","Como posso pagar ?" ],
+            "resposta": "A loja Mundo da Musica dispõe de várias formas de pagamento: Crédito, Débito, pix ou em espécie. "
+        }
+    ]
+}
